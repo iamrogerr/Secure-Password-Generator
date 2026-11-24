@@ -1,0 +1,106 @@
+{
+  "extensionName": {
+    "message": "Gerador de Senhas Seguras",
+    "description": "Nome da extensão"
+  },
+  "extensionDescription": {
+    "message": "Gere senhas fortes, aleatórias e personalizadas com facilidade, formato em blocos com hífen e cópia em um clique.",
+    "description": "Descrição da extensão"
+  },
+  "actionTitle": {
+    "message": "Gerar Senha Segura",
+    "description": "Título da ação"
+  },
+  "headerTitle": {
+    "message": "Gerador de Senhas",
+    "description": "Título do cabeçalho"
+  },
+  "headerSubtitle": {
+    "message": "Seguro e Instantâneo",
+    "description": "Subtítulo do cabeçalho"
+  },
+  "passwordCardLabel": {
+    "message": "Senha gerada",
+    "description": "Aria label da seção de senha"
+  },
+  "passwordWrapperTitle": {
+    "message": "Clique para copiar",
+    "description": "Tooltip do card de senha"
+  },
+  "copyBtn": {
+    "message": "Copiar",
+    "description": "Texto do botão copiar"
+  },
+  "copiedBtn": {
+    "message": "Copiado!",
+    "description": "Texto do botão após copiar"
+  },
+  "refreshBtn": {
+    "message": "Nova Senha",
+    "description": "Texto do botão gerar nova senha"
+  },
+  "strengthLabel": {
+    "message": "Força:",
+    "description": "Rótulo de força"
+  },
+  "strengthWeak": {
+    "message": "Fraca",
+    "description": "Senha fraca"
+  },
+  "strengthFair": {
+    "message": "Razoável",
+    "description": "Senha razoável"
+  },
+  "strengthStrong": {
+    "message": "Forte",
+    "description": "Senha forte"
+  },
+  "strengthVeryStrong": {
+    "message": "Muito Forte",
+    "description": "Senha muito forte"
+  },
+  "lengthTitle": {
+    "message": "Tamanho",
+    "description": "Título do controle de tamanho"
+  },
+  "lengthUnit": {
+    "message": "caracteres",
+    "description": "Unidade de contagem"
+  },
+  "optHyphenName": {
+    "message": "3 blocos com hífen (-)",
+    "description": "Nome da opção de blocos"
+  },
+  "optHyphenDesc": {
+    "message": "Ex: dIffik-nyfkux-6bewfo",
+    "description": "Descrição da opção de blocos"
+  },
+  "optNumbersName": {
+    "message": "Números (0-9)",
+    "description": "Opção de números"
+  },
+  "optSymbolsName": {
+    "message": "Símbolos (!@#$)",
+    "description": "Opção de símbolos"
+  },
+  "optUppercaseName": {
+    "message": "Maiúsculas (A-Z)",
+    "description": "Opção de maiúsculas"
+  },
+  "optLowercaseName": {
+    "message": "Minúsculas (a-z)",
+    "description": "Opção de minúsculas"
+  },
+  "toastCopied": {
+    "message": "Senha copiada para a área de transferência!",
+    "description": "Mensagem toast ao copiar"
+  },
+  "toastSelectAtLeastOne": {
+    "message": "Selecione pelo menos um tipo de caractere!",
+    "description": "Mensagem toast de erro"
+  },
+  "toastCopyError": {
+    "message": "Não foi possível copiar automaticamente.",
+    "description": "Mensagem toast de erro de cópia"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "extensionName": {
+    "message": "Secure Password Generator",
+    "description": "The extension name"
+  },
+  "extensionDescription": {
+    "message": "Generate strong, random, and customizable passwords with hyphen-separated blocks and one-click copy.",
+    "description": "The extension description"
+  },
+  "actionTitle": {
+    "message": "Generate Secure Password",
+    "description": "Action tooltip"
+  },
+  "headerTitle": {
+    "message": "Password Generator",
+    "description": "Header title"
+  },
+  "headerSubtitle": {
+    "message": "Secure & Instant",
+    "description": "Header subtitle"
+  },
+  "passwordCardLabel": {
+    "message": "Generated password",
+    "description": "Aria label for password section"
+  },
+  "passwordWrapperTitle": {
+    "message": "Click to copy",
+    "description": "Tooltip for clicking password wrapper"
+  },
+  "copyBtn": {
+    "message": "Copy",
+    "description": "Copy button text"
+  },
+  "copiedBtn": {
+    "message": "Copied!",
+    "description": "Copied state button text"
+  },
+  "refreshBtn": {
+    "message": "New Password",
+    "description": "Refresh button text"
+  },
+  "strengthLabel": {
+    "message": "Strength:",
+    "description": "Strength label"
+  },
+  "strengthWeak": {
+    "message": "Weak",
+    "description": "Weak password"
+  },
+  "strengthFair": {
+    "message": "Fair",
+    "description": "Fair password"
+  },
+  "strengthStrong": {
+    "message": "Strong",
+    "description": "Strong password"
+  },
+  "strengthVeryStrong": {
+    "message": "Very Strong",
+    "description": "Very strong password"
+  },
+  "lengthTitle": {
+    "message": "Length",
+    "description": "Length slider title"
+  },
+  "lengthUnit": {
+    "message": "chars",
+    "description": "Unit for length"
+  },
+  "optHyphenName": {
+    "message": "3 blocks with hyphen (-)",
+    "description": "Option to split in 3 blocks"
+  },
+  "optHyphenDesc": {
+    "message": "e.g. dIffik-nyfkux-6bewfo",
+    "description": "Description of block splitting"
+  },
+  "optNumbersName": {
+    "message": "Numbers (0-9)",
+    "description": "Numbers option"
+  },
+  "optSymbolsName": {
+    "message": "Symbols (!@#$)",
+    "description": "Symbols option"
+  },
+  "optUppercaseName": {
+    "message": "Uppercase (A-Z)",
+    "description": "Uppercase option"
+  },
+  "optLowercaseName": {
+    "message": "Lowercase (a-z)",
+    "description": "Lowercase option"
+  },
+  "toastCopied": {
+    "message": "Password copied to clipboard!",
+    "description": "Toast message when copied"
+  },
+  "toastSelectAtLeastOne": {
+    "message": "Please select at least one character type!",
+    "description": "Toast error when all pools unselected"
+  },
+  "toastCopyError": {
+    "message": "Could not copy automatically.",
+    "description": "Toast error when copy fails"
+  }
+}
